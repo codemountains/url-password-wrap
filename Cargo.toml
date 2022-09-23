@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "url-wrap-adapter",
+    "url-wrap-app",
+    "url-wrap-driver",
+    "url-wrap-kernel",
+]
